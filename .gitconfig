@@ -1,0 +1,7 @@
+[user]
+	name = Muhaiminul-Kabir
+	email = muhaiminulkabir32@gmail.com
+[core]
+	editor = emacs
+[init]
+	defaultBranch = main
